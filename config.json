@@ -1,0 +1,27 @@
+[
+
+	{"hosts":
+		{
+		"coils":"192.168.1.10",
+		"format":"192.168.1.22"
+		}
+	},
+
+	{"paths":
+		{
+		"localpath":"C:/Scripts/ImageRoot",
+		"remotepath":"camera"
+		}
+	},
+	{"ports":
+		{
+		"ftp":2121
+		}
+	},
+	{"users":
+		{
+		"username":"gvxcust",
+		"password":"gvxcust"
+		}
+	}
+]
